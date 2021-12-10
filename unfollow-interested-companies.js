@@ -1,5 +1,5 @@
 /**
-How to unfollow all the companies.
+How to unfollow all the interested companies.
 
 1. Open the link in the browser
 https://www.linkedin.com/in/YOUR_NAME/detail/recent-activity/interests/companies
